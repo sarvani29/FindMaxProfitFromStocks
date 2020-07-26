@@ -1,4 +1,4 @@
-### **To earn maximum profit by finding the best stock price to buy and sell**
+## **To earn maximum profit by finding the best stock price to buy and sell**
 **Problem**<br />
 To write a computer program that will examine this data to pick the best time and price to buy and the best time and price to sell in order to earn the maximum profit.
 
