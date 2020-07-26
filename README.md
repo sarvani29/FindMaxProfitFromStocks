@@ -17,7 +17,7 @@ The beauty of this algorithm is it uses only O(n) time and O(1) memory. Also, th
     * engaging in at most k number of transactions with and without Cooldown.
     * having a penalty cost (transaction fee) associated with every stock that is bought apart from the price of the stock.
 
-#### **Project structure Overview **<br />
+#### **Project structure Overview**<br />
 
 - [main.py](main.py): This is the main python script used to run the program.
 - [maxprofit.py](maxprofit.py): This file contains a class called MaxProfit which contains the main algorithm to evaluate maximum profit from given data.
