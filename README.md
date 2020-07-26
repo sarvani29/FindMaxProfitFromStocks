@@ -1,6 +1,6 @@
 ## **To earn maximum profit by finding the best stock price to buy and sell**
 **Problem**<br />
-To write a computer program that will examine this data to pick the best time and price to buy and the best time and price to sell in order to earn the maximum profit.
+To write a program that will examine this data to pick the best time and price to buy and the best time and price to sell in order to earn the maximum profit.
 
 **Solution**<br />
 - Dynamic Programming is used to solve the problem of earning maximum profit. The pseudo code for the program is as follows:<br />
