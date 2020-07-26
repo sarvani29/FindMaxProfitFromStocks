@@ -18,6 +18,11 @@ class CheckMaxProfit(unittest.TestCase):
         res = MaxProfit.maxProfit(arr)
         self.assertTrue(res, 0)
 
+    def test_only_one_input(self):
+        arr = [1]
+        res = MaxProfit.maxProfit(arr)
+        self.assertTrue(res, 0)
+
 
 if __name__ == '__main__':
     unittest.main()
