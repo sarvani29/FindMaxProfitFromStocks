@@ -27,8 +27,10 @@ unittest has been used to perform these tests. `unittest` has been used to perfo
 
 
 #### **Requirements**<br />
-Python 3.7 was used to solve the problem. The version can be checked by entering the following in the command line: <br />
+- Python 3.7 was used to solve the problem. The version can be checked by entering the following in the command line: <br />
 `python --version` <br />
+- Pandas: can be installed by the following command line: <br /> 
+`pip install pandas`
 
 #### **Running the code**<br />
 To run the program:<br />
