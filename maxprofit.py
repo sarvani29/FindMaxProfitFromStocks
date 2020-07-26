@@ -10,7 +10,7 @@ class MaxProfit:
 
         for i in range(1, len(self)):
             cheapest = min(cheapest, self[i])
-            profit = max(profit, self[i] - cheapest)
+            profit = round((max(profit, self[i] - cheapest)), ndigits=2)
             buy = self[i]
             sell = cheapest
             message = f'with a Buying price of {buy} and Selling price of {sell}'
